@@ -1,4 +1,4 @@
-![GCD App Icon](https://copilot.microsoft.com/th/id/BCO.6c4f8b6b-5a3e-4e8f-9d3f-2e2c4e9f4b1a.png)
+
 
 
 🔢 Recursive GCD Calculator – C# Console App
